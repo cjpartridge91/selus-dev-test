@@ -1,2 +1,0 @@
-[18-Jan-2017 10:30:31 CST6CDT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/cjpartri/public_html/wp-includes/registration-functions.php on line 7
-[08-Mar-2017 22:07:51 CST6CDT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/cjpartri/public_html/wp-includes/rss-functions.php on line 8
