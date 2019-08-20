@@ -271,6 +271,7 @@ footer {
 
 .home-container .main-gallery-container {
   text-align: center;
+  overflow-y: hidden;
 }
 .home-container .main-gallery-container .banner-container {
   height: 85vh;
@@ -283,7 +284,7 @@ footer {
   margin-bottom: 60px;
 }
 .home-container .main-gallery-container .banner-container .banner-title strong {
-  color: #144274;
+  color: #fc332f;
   font-weight: 500;
 }
 
@@ -341,6 +342,17 @@ footer {
     transform: scale(1);
     -webkit-transform: scale(1);
   }
+}
+
+
+.home-container .intro-section-container {
+  background-size: cover;
+  background-position: center;
+  padding: 40px 15px;
+}
+
+.home-container .intro-section-container .fadeIn {
+  opacity: 1;
 }
 
 
